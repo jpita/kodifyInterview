@@ -45,9 +45,9 @@ In case of an error the screen shots will be kept inside the `screenshots/defaul
 
 ### Notes
 
-* These tests were written using the [page object design pattern](http://nightwatchjs.org/guide#page-objects). I've been using it throughout all my career and is the most used design patter when writting automated UI tests
+* These tests were written using the [page object design pattern](http://nightwatchjs.org/guide#page-objects). I've been using it throughout all my career and is the most used design pattern when writting automated UI tests.
 
-* Being the first time I've used this framework and has been a long time since I used JS to write tests, the tests are really simple. I've used some clicks, set values, waits and asserts methods to cover the most basic and fundamental things selenium webdriver can do on a browser.
+* Being the first time I've used this framework and being a long time since I used JS to write tests, the tests are really simple. I've used some clicks, set values, waits and asserts methods to cover the most basic and fundamental things selenium webdriver can do on a browser.
 
 * I didn't dig deep into how nightwatchJS works regarding running tests in paralel or inside a CI tool, but a simple google query returned a lot of results from the community and from [nightwatchJS documentation](http://nightwatchjs.org/guide#parallel-running) itself. The same goes for [unit tests](http://nightwatchjs.org/guide#unit-testing), thing I never did before.
 
